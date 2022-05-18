@@ -1,2 +1,2 @@
 # qamp-template
-Tempalte repo for QAMP
+Template repo for QAMP
